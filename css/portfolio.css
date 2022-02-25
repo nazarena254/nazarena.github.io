@@ -37,4 +37,13 @@
     padding-left:40px ;
     padding-bottom: 40px;
     font-weight: bold;
-}  
+} 
+img {
+    float: left;
+    width: 250px;
+    height: 200px;
+    padding-right: 20px;
+  }
+  #lady {
+font-weight: bold;
+  } 
