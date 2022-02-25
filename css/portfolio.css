@@ -31,4 +31,10 @@
     color: rgb(161, 42, 197);
     text-align: center;
     padding-top: 40px;
-  }   
+  } 
+  .myname  {
+    color: rgb(161, 42, 197);
+    padding-left:40px ;
+    padding-bottom: 40px;
+    font-weight: bold;
+}  
