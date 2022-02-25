@@ -19,7 +19,7 @@
   .topnav a:hover {
     background-color: #ddd;
     color: black;
-  } 
+  }
   .card {
     padding: 10px 16px;
     background-color: rgb(230, 205, 224);
@@ -31,14 +31,14 @@
     color: rgb(161, 42, 197);
     text-align: center;
     padding-top: 40px;
-  } 
+  }
   .myname  {
-    color: rgb(161, 42, 197);
-    padding-left:40px ;
-    padding-bottom: 40px;
-    font-weight: bold;
-} 
-img {
+      color: rgb(161, 42, 197);
+      padding-left:40px ;
+      padding-bottom: 40px;
+      font-weight: bold;
+  }
+  img {
     float: left;
     width: 250px;
     height: 200px;
@@ -111,4 +111,7 @@ font-weight: bold;
 
   .footer {
     text-align: center;
-  } 
+  }
+
+  
+  
