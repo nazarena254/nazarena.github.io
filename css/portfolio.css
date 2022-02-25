@@ -46,4 +46,11 @@ img {
   }
   #lady {
 font-weight: bold;
+  }
+  .aboutme {
+    padding-left:40px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-style: italic; 
+    color: rgb(161, 42, 197); 
   } 
