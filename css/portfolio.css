@@ -19,4 +19,11 @@
   .topnav a:hover {
     background-color: #ddd;
     color: black;
-  }    
+  } 
+  .card {
+    padding: 10px 16px;
+    background-color: rgb(230, 205, 224);
+    display: grid;
+    grid-auto-rows: auto;
+    border: 30px solid #e7e7e7;
+  }   
