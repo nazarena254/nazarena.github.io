@@ -3,4 +3,20 @@
     margin: 20px;
     padding: 30px;
     font-size: large;
-}    
+}
+.topnav {
+    background-color: rgb(216, 104, 197);
+    overflow: hidden;
+  }
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }    
