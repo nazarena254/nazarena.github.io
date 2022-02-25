@@ -26,4 +26,9 @@
     display: grid;
     grid-auto-rows: auto;
     border: 30px solid #e7e7e7;
+  }
+  .heading {
+    color: rgb(161, 42, 197);
+    text-align: center;
+    padding-top: 40px;
   }   
